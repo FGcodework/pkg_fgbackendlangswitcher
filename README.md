@@ -1,15 +1,15 @@
-<p align="center">
+﻿<p align="center">
   <img src="assets/banner.png" width="1200" height="525" alt="FG Backend LangSwitcher banner">
 </p>
 
 <h1 align="center">FG Backend LangSwitcher</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/v/release/ferino75/pkg_fgbackendlangswitcher?label=version" alt="Version">
+  <img src="https://img.shields.io/github/v/release/FGcodework/pkg_fgbackendlangswitcher?label=version" alt="Version">
   <img src="https://img.shields.io/badge/license-GPL--2.0-blue" alt="License">
   <img src="https://img.shields.io/badge/Joomla-5%20%7C%206-red" alt="Joomla 5 | 6">
   <img src="https://img.shields.io/badge/PHP-8.1%2B-777bb4" alt="PHP 8.1+">
-  <img src="https://img.shields.io/github/downloads/ferino75/pkg_fgbackendlangswitcher/total?color=FF6B4A" alt="Downloads">
+  <img src="https://img.shields.io/github/downloads/FGcodework/pkg_fgbackendlangswitcher/total?color=FF6B4A" alt="Downloads">
 </p>
 
 Lets every administrator switch their own backend (admin panel) language
@@ -68,7 +68,7 @@ Two extensions, installed together as one package:
 ## Installation
 
 1. Download the latest release ZIP from the
-   [Releases](https://github.com/ferino75/pkg_fgbackendlangswitcher/releases)
+   [Releases](https://github.com/FGcodework/pkg_fgbackendlangswitcher/releases)
    page.
 2. In Joomla, go to **System → Install → Extensions → Upload & Install**
    and upload the ZIP.

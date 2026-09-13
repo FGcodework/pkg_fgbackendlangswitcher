@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <extension type="package" method="upgrade">
     <name>FG Backend LangSwitcher</name>
     <packagename>fgbackendlangswitcher</packagename>
@@ -17,6 +17,6 @@
     </files>
 
     <updateservers>
-        <server type="extension" priority="1" name="FG Backend LangSwitcher Updates">https://raw.githubusercontent.com/ferino75/pkg_fgbackendlangswitcher/master/updates.xml</server>
+        <server type="extension" priority="1" name="FG Backend LangSwitcher Updates">https://raw.githubusercontent.com/FGcodework/pkg_fgbackendlangswitcher/master/updates.xml</server>
     </updateservers>
 </extension>
