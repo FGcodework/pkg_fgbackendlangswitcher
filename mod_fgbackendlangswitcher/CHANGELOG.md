@@ -4,6 +4,10 @@ Versions are kept in sync with the `pkg_fgbackendlangswitcher` package
 (even in a release where only the module, the companion plugin, or just
 the package infrastructure changed).
 
+## 1.3.0
+- Added German (de-DE) translation (frontend labels, settings, messages and
+  the `.sys.ini` strings used by the installer/extension manager).
+
 ## 1.2.20
 - New logo and JED-style banner (`assets/logo.png`, `assets/banner.png`,
   1200×525), matching the established FG series banner layout: mark with

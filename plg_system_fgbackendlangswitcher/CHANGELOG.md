@@ -4,6 +4,9 @@ Versions are kept in sync with the `pkg_fgbackendlangswitcher` package
 (even in a release where only the plugin, the module, or just the package
 infrastructure changed).
 
+## 1.3.0
+- Added German (de-DE) translation (plugin name and description).
+
 ## 1.2.20
 - No plugin change (version kept in sync with the package for the new
   logo/banner assets).
