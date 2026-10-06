@@ -4,6 +4,10 @@ Versions are kept in sync with the `pkg_fgbackendlangswitcher` package
 (even in a release where only the plugin, the module, or just the package
 infrastructure changed).
 
+## 1.3.1
+- Added GPL license notice (`@copyright` / `@license`, GPL v2 or later) to
+  the docblock of every PHP file, as required by the JED checker.
+
 ## 1.3.0
 - Added German (de-DE) translation (plugin name and description).
 
