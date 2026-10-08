@@ -3,6 +3,9 @@
 /**
  * @package     Fero.Package
  * @subpackage  pkg_fgbackendlangswitcher
+ * @author      Fero
+ * @copyright   (C) 2026 Fero. All rights reserved.
+ * @license     GNU General Public License version 2 or later; see LICENSE
  */
 
 \defined('_JEXEC') or die;
