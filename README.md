@@ -1,5 +1,5 @@
 ﻿<p align="center">
-  <img src="assets/logo.png" width="128" height="128" alt="FG Backend LangSwitcher banner">
+  <img src="assets/logo.webp" width="128" height="128" alt="FG Backend LangSwitcher banner">
 </p>
 
 <h1 align="center">FG Backend LangSwitcher</h1>
